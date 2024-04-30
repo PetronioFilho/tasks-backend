@@ -1,4 +1,4 @@
-pipline{
+pipiline{
     agent any
     stages {
         stage ('Just Test') {
