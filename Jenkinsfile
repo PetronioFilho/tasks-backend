@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage ('Just Test') {
             steps {
-                bat 'Testando'
+                bat 'echo Testando'
             }
         }
     }
